@@ -1,0 +1,109 @@
+body{
+    height: 100%;
+}
+@font-face {
+    font-family: Bombardier;
+    src: url(BOMBARD_.otf);
+}
+.container{
+ /*   margin-left: 130px!important;
+    margin-right: 130px!important;*/
+}
+@media (min-width: 1200px) {
+    .container {
+         max-width: 900px!important;
+    }
+}
+@media (min-width: 992px) {
+    .container {
+        max-width: 900px!important;
+    }
+}
+@media (min-width: 768px) {
+    .container {
+        max-width: 900px!important;
+    }
+}
+.toptitle{
+    background: url(TopBlock.svg) no-repeat top center;
+    background-size: contain;
+    width: 900px!important;
+    height: 250px;
+}
+.abilities{
+    background: url(Abilities.svg) no-repeat top center;
+    background-size: contain;
+    max-width: 900px!important;
+    height: 250px;
+}
+
+.level1{
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 10px 0 10px 20px;
+    border-color: transparent transparent transparent #ffffff;
+}
+.level2{
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 10px 0 10px 20px;
+    border-color: transparent transparent transparent #ffffff;
+}
+.level3{
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 10px 0 10px 20px;
+    border-color: transparent transparent transparent #ffffff;
+}
+.level4{
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 10px 0 10px 20px;
+    border-color: transparent transparent transparent #ffffff;
+}
+.level5{
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 15px 0 15px 30px;
+    border-color: transparent transparent transparent #ffffff;
+}
+.level6{
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 10px 0 10px 20px;
+    border-color: transparent transparent transparent #ffffff;
+}
+.level7{
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 10px 0 10px 20px;
+    border-color: transparent transparent transparent #ffffff;
+}
+.level8{
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 10px 0 10px 20px;
+    border-color: transparent transparent transparent #ffffff;
+}
+.level9{
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 10px 0 10px 20px;
+    border-color: transparent transparent transparent #ffffff;
+}
+.level10{
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 15px 0 15px 30px;
+    border-color: transparent transparent transparent #ffffff;
+}
